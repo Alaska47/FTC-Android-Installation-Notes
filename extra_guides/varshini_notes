@@ -1,0 +1,34 @@
+1.       Open up Android Studio
+2.       Choose Configure
+3.       SDK Manager
+4.       Load
+5.       Show Package Details
+6.       Many Packages to Install…
+a.       Android 5.1.1- Select everything, except for TV and Wear- 4 of those options
+b.      Android for 5.0.1
+c.       Android 4.2.2- Select everything but glass development kit preview
+7.       Go to the second tab
+8.       Make sure you have…
+a.       Android SDK Build Tools
+b.      Android SDK Tools 24.4
+c.       SDK Platform Tools
+d.      Android Support Repository
+e.      Android Support Library
+f.        Google Repository
+g.       Google USB Driver
+9.       Press Apply and follow directions, don’t click cancel
+10.   Click okay to go back to the Configure
+11.   Press back button to go to Quick Start
+12.   Click import project
+13.   Go to downloads folder
+14.   Open ftcappmaster folder
+15.   ftc_app-master- green icon
+16.   Click okay
+17.   Progress bar 
+18.   Open up to a screen with no files
+19.   Project, Structure, and Capture
+20.   Click on Project
+21.   FTC robot controller
+22.   Open up Java
+23.   Opmodes
+24.   For Teleop- K9 Teleop
