@@ -1,0 +1,14 @@
+When you first go to Android Studio, you go to configure then SDK manager then show package details, then go to Android 5.1.1, select everything options except TV and Wear. Do the same select options for 5.0.1 Android, got  to Android 4.2.2, in it select everything but Glass development kit preview. 
+
+See screen go to second tab, make sure you have android SDK build tools, android SDK tools 24.4, then have sdk platform tools, andriod support repositories, and android support library, then google repositories, and google USB driver.
+
+Then press apply, and go through directions. Takes about two hours. 
+
+To go back to configure tab, press back button to go to quickstart.
+
+Click import project, then go to FTC app master, click sub unit , and scroll to where you unzipped the file, then go to FTC_app master,select ok. 
+
+Progress bar comes and once its done, it opens up to screen blank, go to left bar, click projects and it shows ftc robot controller, open that and open up java , open op modes and then gives you all different op modes. For teleop mode: use knineteleop.
+
+before this stuff download FTC app master: www. github.com/ftctechnh/ftc_app/
+click download zip, then unzip the zipped file
