@@ -1,0 +1,16 @@
+Step 1: See opening screen, and choose Configure, SDK Manager, Show package details,
+Step 2: Android 5.1.1 select all options except TV and Ware
+Step 3: Same for Android 5.0.1
+Step 4: Go to Android 4.4.2, select all but Glass Development Kit Preview
+Step 5: select 2nd tab and select Android SDK Build Tools, Android SDK tools 24.4, SDK Platform tools, Android support repository, Android support library, Google repository, Google USB Driver
+Step 6: Just click Apply and follow all the directions( 2 HOURS)
+Step 7: Once done, click out and click back to get back to last page
+Step 8: Click import project tab
+Step 9: Select what to import
+Step 10: Go to downloads folder
+Step 11: Open FTC Master folder
+Step 12: Ftc_app_master needs to be selected
+Step 13: Click Ok 
+Step 14: Progress bar appears
+Step 15: No files are there
+Step 16: Open up the project
