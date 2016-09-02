@@ -72,7 +72,11 @@ Configuration
 <p align="center">
   <img src="https://github.com/Alaska47/FTC-Android-Installation-Notes/blob/master/images/finish_code.png?raw=true"/>
 </p>
-13. Check out some sample code from https://github.com/Alaska47/ftc_app/tree/master/FtcRobotController/src/main/java/com/qualcomm/ftcrobotcontroller/opmodes. The files from the link are code for my team's robot last year. The relevant files are `AutoRed.java` (autonomous code) and `TeleOpRedBlue.java` (teleop code). 
+13. To run the code on the robot, connect the ZTE Speed phone to your computer and click the green play button.
+<p align="center">
+  <img src="https://github.com/Alaska47/FTC-Android-Installation-Notes/blob/master/images/play.png?raw=true"/>
+</p>
+14. Check out some sample code from https://github.com/Alaska47/ftc_app/tree/master/FtcRobotController/src/main/java/com/qualcomm/ftcrobotcontroller/opmodes. The files from the link are code for my team's robot last year. The relevant files are `AutoRed.java` (autonomous code) and `TeleOpRedBlue.java` (teleop code). 
 <p align="center">
   <img src="https://github.com/Alaska47/FTC-Android-Installation-Notes/blob/master/images/github_code.png?raw=true"/>
 </p>
