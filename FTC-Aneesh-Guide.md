@@ -42,7 +42,7 @@ Configuration
   <img src="https://github.com/Alaska47/FTC-Android-Installation-Notes/blob/master/images/packages_studio.png?raw=true"/>
 </p>
 4. Navigate to `SDK Tools` using the top bar.
-    3. Select `Google USB Driver`, `Google Web Driver`, `Intel x86 Emulator Accelerator (HAXM installer` (optional)
+    3. Select `Google USB Driver`, `Google Web Driver`, `Intel x86 Emulator Accelerator (HAXM installer)` (optional)
 <p align="center">
   <img src="https://github.com/Alaska47/FTC-Android-Installation-Notes/blob/master/images/packages_studio1.png?raw=true"/>
 </p>
